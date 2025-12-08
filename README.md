@@ -38,7 +38,7 @@ Displays food items for ordering.
 ### 🛒 Cart Page  
 Shows selected items, total price, remove option, and navigation actions.
 
-![Cart Page](./images/cart.png)
+![Cart Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/59f6451c10144c34f45f826e893c2e073d0ddf1d/cart.png)
 
 ---
 
