@@ -45,7 +45,7 @@ Shows selected items, total price, remove option, and navigation actions.
 ### ➕ Add More Items  
 Allows the user to continue ordering more food.
 
-![Add More Items](./images/addmoreitems.png)
+![Add More Items](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/0a48892408a50d56c43dd19d04465011e8977362/add%20more%20Items.png)
 
 ---
 
