@@ -52,7 +52,7 @@ Allows the user to continue ordering more food.
 ### 💳 Checkout Page  
 Users can enter delivery address and payment method.
 
-![Checkout Page](./images/checkout.png)
+![Checkout Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/22aaedd856c5454c05145f7a945083ae83c4b375/checkout.png)
 
 ---
 
