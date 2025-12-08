@@ -59,7 +59,7 @@ Users can enter delivery address and payment method.
 ### 🎉 Order Successful Page  
 Final confirmation with a button to navigate back to the home page.
 
-![Thank You Page](./images/thankyou.png)
+![Thank You Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/f7da539ece42c998f892d2797484d6104ef46467/thankyou%20page.png)
 
 ---
 
