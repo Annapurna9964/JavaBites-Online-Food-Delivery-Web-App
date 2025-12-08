@@ -24,7 +24,7 @@ It allows users to browse restaurants, view menus, manage their cart, place orde
 ### 🏠 Home Page  
 All available restaurants are shown.
 
-![Home Page]()
+![Home Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/ab3ac155426bb8c423a3dce7e0c31215145884d2/home.png)
 
 ---
 
