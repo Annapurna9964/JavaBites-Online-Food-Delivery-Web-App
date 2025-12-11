@@ -41,7 +41,7 @@ New users can create an account by entering their details.
 ### 🏠 Home Page  
 All available restaurants are shown.
 
-![Home Page]()
+![Home Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/18393becd4ac0d59c482fade49043a0622a643bf/home.png)
 
 ---
 
