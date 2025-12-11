@@ -34,7 +34,7 @@ Users can log in using their registered email and password.
 ### 📝 Register Page  
 New users can create an account by entering their details.
 
-![Register Page]()
+![Register Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/1635cc8c74bcaadca132a228024e6d623b5ff2ef/register.png)
 
 ---
 
