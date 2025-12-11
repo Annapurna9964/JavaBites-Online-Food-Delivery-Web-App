@@ -1,12 +1,15 @@
 # 🍽️ JavaBites - Food Delivery Web Application
 
 JavaBites is a full-stack food delivery web application developed using **HTML, CSS, JavaScript, JSP, Servlets, JDBC, and MySQL**.  
-It allows users to browse restaurants, view menus, manage their cart, place orders, and receive an order confirmation. The project follows the **MVC architecture**, ensuring clean structure and maintainability.
+It allows users to register/login, browse restaurants, view menus, manage their cart, place orders, and receive an order confirmation.  
+The project follows the **MVC architecture**, ensuring clean structure and maintainability.
 
 ---
 
 ## 🚀 Features
 
+- 🔐 **Login Page:** Allows users to log in securely using email and password.
+- 📝 **Register Page:** New users can sign up by creating an account.
 - 🏠 **Home Page:** Displays a list of available restaurants.
 - 📄 **Menu Page:** Shows restaurant menu items with prices and images.
 - 🛒 **Cart Page:** Displays selected items, total cost, and buttons to *Add More Items* or *Proceed to Checkout*.
@@ -17,49 +20,63 @@ It allows users to browse restaurants, view menus, manage their cart, place orde
 
 ## 🖼️ Screenshots
 
-> All screenshots represent the user flow from browsing to placing an order.
+> All screenshots represent the full user journey from account creation to placing an order.
+
+---
+
+### 🔐 Login Page  
+Users can log in using their registered email and password.
+
+![Login Page]()
+
+---
+
+### 📝 Register Page  
+New users can create an account by entering their details.
+
+![Register Page]()
 
 ---
 
 ### 🏠 Home Page  
 All available restaurants are shown.
 
-![Home Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/ab3ac155426bb8c423a3dce7e0c31215145884d2/home.png)
+![Home Page]()
 
 ---
 
 ### 📄 Menu Page  
 Displays food items for ordering.
 
-![Menu Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/81c38b5e6361a75968c1ae3ee6f656bce9687661/menu.png)
+![Menu Page]()
 
 ---
 
 ### 🛒 Cart Page  
 Shows selected items, total price, remove option, and navigation actions.
 
-![Cart Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/59f6451c10144c34f45f826e893c2e073d0ddf1d/cart.png)
+![Cart Page]()
 
 ---
 
 ### ➕ Add More Items  
 Allows the user to continue ordering more food.
 
-![Add More Items](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/0a48892408a50d56c43dd19d04465011e8977362/add%20more%20Items.png)
+![Add More Items]()
 
 ---
 
 ### 💳 Checkout Page  
 Users can enter delivery address and payment method.
 
-![Checkout Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/22aaedd856c5454c05145f7a945083ae83c4b375/checkout.png)
+![Checkout Page]()
 
 ---
 
 ### 🎉 Order Successful Page  
 Final confirmation with a button to navigate back to the home page.
 
-![Thank You Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/f7da539ece42c998f892d2797484d6104ef46467/thankyou%20page.png)
+![Thank You Page]()
 
 ---
 
@@ -87,4 +104,3 @@ Final confirmation with a button to navigate back to the home page.
 ### 👨‍💻 Developer
 
 Made with ❤️ using Java & Web Technologies.
-
