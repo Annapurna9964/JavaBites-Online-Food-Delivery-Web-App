@@ -48,7 +48,7 @@ All available restaurants are shown.
 ### 📄 Menu Page  
 Displays food items for ordering.
 
-![Menu Page]()
+![Menu Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/0740d966dc8a3a2a2c590556939ef89e03eb3b4d/menu.png)
 
 ---
 
