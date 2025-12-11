@@ -27,7 +27,7 @@ The project follows the **MVC architecture**, ensuring clean structure and maint
 ### 🔐 Login Page  
 Users can log in using their registered email and password.
 
-![Login Page]()
+![Login Page](https://github.com/Annapurna9964/JavaBites-Online-Food-Delivery-Web-App/blob/99bff2516f589f16f521296240e889cc9a4182a7/login.png)
 
 ---
 
